@@ -1,0 +1,22 @@
+/*
+/* Custom CoCo css (Slider)
+/* --------------------------------------------------
+*/
+
+.coco-topbar-first {
+    z-index: 1023 !important;
+    background-image: url("https://www.coco-projekt.de/wp-content/uploads/2022/02/bg2.jpg");
+    background-repeat: round;
+    height: 80px !important;
+}
+
+.coco-topbar-second {
+    top: 73px !important;
+    height: auto !important;
+    background-color: #89CFF0 !important;
+    z-index: 1022 !important;
+}
+
+.user-comp {
+    margin-top: 11px !important; 
+}
